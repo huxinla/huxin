@@ -1,17 +1,30 @@
-## Welcome to GitHub Pages
+## huxin
 
-You can use the [editor on GitHub](https://github.com/huxinla/huxin/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+day,day,up
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### buzhidaoxieshenme
+随着手机、相机等图像获取设备的普及和社交
 
-### Markdown
+网络的迅猛发展，图像在我们的日常生活中发挥着
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+越来越重要的作用。然而，受图像处理系统性能的
 
-```markdown
-Syntax highlighted code block
+限制，在图像的获取、传输和处理等过程中，会引
 
-# Header 1
+入各种各样的失真。失真的引入会降低图像的美观
+
+性，同时也会阻碍了人们从图像中获取信息。因此
+
+有必要研究图像质量评价方法，用于图像获取设备
+
+性能的监控、图像处理系统的优选以及图像处理方
+
+法的优化。
+
+  由于人是图像的最终接收者，因此由人主观地评价图像的质量是最为可靠的方法[1]。然而，主观质量评价方法耗时耗力，而且难以集成到图像处理系统中。 因此， 如何设计客观图像质量评价方法
+
+
+# UZI
 ## Header 2
 ### Header 3
 
