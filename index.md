@@ -31,25 +31,8 @@ day,day,up
 每年都参与千亿级的大项目
 ### 爱好
 爱好广泛，涉猎各个领域
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huxinla/huxin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-```
+爱好德语，著有著名于624寝室的德语文章，有不错的评价
+Ich fühle mich geehrt, dass Professor Peter erklärt, dass ich nach diesem Vortrag sehr dankbar bin.Wir sind Industrial Engineering Industrial Technology Management-Profis, unser Profi ist mehr Spezialisierung.Wir arbeiten eng mit der Universität Stuttgart in Deutschland zusammen, um den Drei-plus-Eins-Lehrmodus zu implementieren, und wir sind für die Universität Stuttgart zugänglicher als jeder andere Student, und ich betrachte mich selbst als glücklich, in den Beruf einzutreten.
+Es ist sehr wichtig für uns, gut Deutsch zu lernen, wir müssen die Telford-Prüfung bestehen, aber es bleibt uns nicht viel Zeit.Wir müssen in allen vier Modulen mehr als vier Punkte erhalten, um an Telford zu bestehen.Außerdem müssen wir vor dem zweiten Semester bestehen.
+Neben Deutsch müssen wir auch gute Ergebnisse in fortgeschrittenen Mathematik- und Spezialfächern wie Maschinenbau, technische Materialien und thermische Verarbeitung, elektrotechnische Grundlagen und Kursexperimente erzielen. Um die Teilnahme am APS-Audit zu ermöglichen, muss unser Notendurchschnitt über 2,5 Punkten liegen (basierend auf deutschen Notensystemkriterien). Im fünften Semester des dritten Semesters findet dann in der ersten Hälfte des Junior-Jahres ein APS-Treffen statt, bei dem nur die APS-Prüfung und die Telford-Prüfung im vierten Jahr an der Universität Stuttgart absolviert werden können.
+Das ist sehr Schwierig，Aber ich werde weiterhin hart arbeiten.
